@@ -4,7 +4,7 @@ theme: jekyll-theme-minimal
 
 title: "Lazuly's Street Fighter's memo"
 description: "ロボコンオタクのスト6メモ。ゴールドどん詰まりキャミィ"
-logo: lazulyTech.github.io/docs/img/icon.png
+logo: /lazulyTech.github.io/docs/img/icon.png
 google_analytics: G-PN04M09J2X
 
 twitter:
