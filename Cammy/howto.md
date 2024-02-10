@@ -1,6 +1,6 @@
 # キャミィの使い方
 
-# [ころさん→シオンのメモ]をボタンから言葉に変更(https://twitter.com/inugamikorone/status/1724169019471827295)
+# [ころさん→シオンのメモ](https://twitter.com/inugamikorone/status/1724169019471827295)をボタンから言葉に変更
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="ja" data-theme="dark"><p lang="ja" dir="ltr">先生、愛してる。</p>&mdash; 紫咲シオン🌙 ホロライブ (@murasakishionch) <a href="https://twitter.com/murasakishionch/status/1724333638287012086?ref_src=twsrc%5Etfw">2023年11月14日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
