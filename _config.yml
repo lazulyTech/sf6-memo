@@ -1,1 +1,12 @@
-hpSetting/docs/_config.yml
+plugins:
+  - jekyll-sitemap
+theme: jekyll-theme-minimal
+
+title: "Lazuly's Street Fighter's memo"
+description: "ロボコンオタクのスト6メモ。ゴールドどん詰まりキャミィ"
+logo: /img/icon.png
+google_analytics: G-PN04M09J2X
+
+twitter:
+  username: lazuly_tech
+
