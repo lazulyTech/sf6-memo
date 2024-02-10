@@ -2,8 +2,8 @@ plugins:
   - jekyll-sitemap
 theme: jekyll-theme-minimal
 
-title: "Lazuly's Street Fighter's memo"
-description: "ロボコンオタクのスト6メモ。ゴールドどん詰まりキャミィ"
+title: "Lazuly's Street Fighter memo"
+description: "ロボコンオタクのスト6メモ。キャミィでゴールドどん詰まりなう"
 logo: /mainSite/docs/img/icon.png
 google_analytics: G-PN04M09J2X
 
