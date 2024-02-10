@@ -1,2 +1,2 @@
 # sf6-memo
-スト
+スト6のメモとGitHub-Pagesの練習
