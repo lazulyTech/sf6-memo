@@ -1,0 +1,3 @@
+[submodule "hpSetting"]
+    path = hpSetting
+    url = git@github.com:lazulyTech/lazulyTech.github.io/
