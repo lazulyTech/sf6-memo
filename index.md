@@ -2,7 +2,7 @@
 
 <b>[Lazuly's Pageはこちら](https://lazulyTech.github.io/)</b>
 
-11月末にミャミィでルーキー1からはじまり、現在ゴールド3と4を反復横跳び中。
+11月末にミャミィでルーキー1からはじまり、2/12にプラチナ昇格！キープできるようにがんばります。
 
 <img width="50%" src="img/members_card.png" alt="メンバーズカード" title="メンバーズカード">
 
